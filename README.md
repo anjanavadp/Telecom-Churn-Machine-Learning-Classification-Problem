@@ -25,6 +25,7 @@ However, in the prepaid model, customers who want to switch to another network c
   **c) The ‘churn’ phase:** *In this phase, the customer is said to have churned. You define churn based on this phase. Also, it is important to note that at the time of prediction (i.e. the action months), this data is not available to you for prediction. Thus, after tagging churn as 1/0 based on this phase, you discard all data corresponding to this phase.*
 
 BUSINESS OBJECTIVE:
+
 The business objective is to predict the churn in the last month using the features from the first three months. To accomplish this business objective, following key points are noteworthy:
 
 1) It is important to understand the typical customer behaviour during churn.
